@@ -1,4 +1,4 @@
-# hyper-circle-controls
+# hyper-custom-controls
 
 > Add Mac-like controls to Hyper Terminal, but highly customizable
 
