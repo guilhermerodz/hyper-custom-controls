@@ -2,7 +2,7 @@
 
 > Add Mac-like controls to Hyper Terminal, but highly customizable
 
-![](https://raw.githubusercontent.com/guilhermerodz/hyper-custom-controls/master/.git/result.png)
+![](https://raw.githubusercontent.com/guilhermerodz/hyper-custom-controls/master/media/result.png)
 
 ## Configuration
 
