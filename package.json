@@ -1,0 +1,8 @@
+{
+  "name": "hyper-custom-controls",
+  "description": "Add Mac-like controls to Hyper Terminal, but highly customizable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Guilherme Rodz"
+}
