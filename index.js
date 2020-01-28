@@ -7,7 +7,7 @@ exports.decorateConfig = config => {
     controls,
     side = 'left',
     circleSize = 11,
-    circleGap = 16,
+    circleGap = 7.5,
     distanceToSide = 15,
     opacity = 1,
     hoverOpacity = 0.5,

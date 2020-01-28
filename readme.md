@@ -15,7 +15,7 @@ modules.exports = {
     hyperCustomControls: {
       side: 'left', // Default: 'left'
       circleSize: 11, // Default: 11
-      circleGap: 16, // Default: 16
+      circleGap: 7.5, // Default: 7.5
       distanceToSide: 15, // Default: 15
       opacity: 1, // Default: 1
       hoverOpacity: 0.5, // Default: 0.5
